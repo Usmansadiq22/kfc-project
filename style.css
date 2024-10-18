@@ -132,7 +132,6 @@ button {
 .menu-item:hover {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  transform: rotate(180deg);
 }
 .menu-img {
   width: 200px;
@@ -163,6 +162,9 @@ button {
 }
 .seller-item {
   background-color: #1c1816;
+}
+.seller-item:hover {
+  margin: -0.5rem;
 }
 .seller {
   width: 300px;
