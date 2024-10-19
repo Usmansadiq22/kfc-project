@@ -49,6 +49,8 @@ i {
 }
 /*nav bar*/
 nav {
+  position: sticky;
+  z-index: 1000;
   margin-left: 3rem;
   margin-right: 3rem;
   margin-top: 1.5rem;
